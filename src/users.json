@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "juan paula",
+        "position": "desarrollador",
+        "skills": [ "java", "c#"]
+    },
+    {
+        "id": 2,
+        "name": "laura lopez",
+        "position": "desarrollador",
+        "skills": [ "c#", "javascript" ]
+    },
+    {
+        "id": 3,
+        "name": "camila lopez",
+        "position": "desarrollador",
+        "skills": [ "java", "javascript" ]
+    }
+]
